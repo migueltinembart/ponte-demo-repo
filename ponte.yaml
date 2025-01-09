@@ -2,3 +2,4 @@ test:
   test: string
   another: test
   mucho: test
+  i: "dont know"
